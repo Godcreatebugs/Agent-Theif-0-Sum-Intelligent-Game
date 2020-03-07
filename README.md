@@ -7,4 +7,4 @@
     
 **Description**
 This project is done with the help visilibity library and some of the results are as shown below:
-![](https://github.com/Godcreatebugs/Agent-Theif-2-Sum-Intelligent-Game/blob/master/report_videos/cluttered_static_path.gif) 
+![](https://github.com/Godcreatebugs/Agent-Theif-2-Sum-Intelligent-Game/blob/master/report_videos/cluttered_static_path.gif "Title" {width=40px height=400px} ) 
