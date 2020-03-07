@@ -8,4 +8,4 @@
 **Description**
 This project is done with the help visilibity library and some of the results are as shown below:
  
-<img align="center" src="https://github.com/Godcreatebugs/Agent-Theif-2-Sum-Intelligent-Game/blob/master/report_videos/cluttered_static_path.gif" width="200" height= "200">
+<img align="center" width="200" height= "200 src="https://github.com/Godcreatebugs/Agent-Theif-2-Sum-Intelligent-Game/blob/master/report_videos/cluttered_static_path.gif" >
